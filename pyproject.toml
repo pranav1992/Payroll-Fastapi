@@ -1,7 +1,7 @@
 [project]
-name = "fastapitutotial"
+name = "payroll-fastapi"
 version = "0.1.0"
-description = "Add your description here"
+description = "Payroll API built with FastAPI"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
